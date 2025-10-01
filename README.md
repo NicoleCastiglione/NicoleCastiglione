@@ -8,7 +8,8 @@
 - 📫 Email me at [nicolecastiglione0@gmail.com](mailto:nicolecastiglione0@gmail.com).
 
 <p>
- Hello! Welcome to my profile 👋 I'm Nicole, a Frontend Developer with previous experience in UX/UI design. My focus is on creating innovative and engaging technological solutions. I combine my ability to design intuitive user experiences with my knowledge of web development to create functional and appealing applications 💻📱 </p>
+ Hello! Welcome to my profile 👋 I'm Nicole, a Frontend Developer with background in UX/UI and solid experience in creating and maintaining mobile applications using React Native. I specialize in developing solutions that optimize processes and significantly enhance the user experience. 💻📱 </p>
+
 <p>
 I'm enthusiastic about learning and growing in a collaborative work environment, bringing my creativity and technical skills to tackle and overcome challenges 🙌🏼.
 </p>
